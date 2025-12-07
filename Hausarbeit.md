@@ -7,3 +7,5 @@
 ## Die Eintwiclung der Röhren-Computer 
 
 ## Die Etwicklung 
+
+## Die Zeit 
